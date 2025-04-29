@@ -15,3 +15,35 @@ psycopg2-binary
 # python-dotenv==1.0.1
 # sqlalchemy==2.0.29
 # psycopg2-binary==2.9.9
+
+# your_project/
+# ├── app/
+# │   ├── main.py              # FastAPI 主入口
+# │   ├── scraper.py           # Selenium 爬蟲邏輯（呼叫 cookie + 粉專網址）
+# │   ├── cookie.json          # 自己貼
+# │   ├── models.py            # SQLAlchemy 資料表
+# │   ├── schemas.py           # Pydantic 資料結構
+# │   ├── database.py          # 連接 PostgreSQL
+# │   └── requirements.txt     # 安裝用套件清單
+# ├── Dockerfile               # Docker 定義
+# ├── docker-compose.yml       # Docker Compose 整合
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
