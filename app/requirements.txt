@@ -1,0 +1,17 @@
+selenium
+pandas
+fastapi
+uvicorn[standard]
+python-dotenv
+
+sqlalchemy
+psycopg2-binary
+
+
+# selenium==4.19.0
+# pandas==2.2.1
+# fastapi==0.110.1
+# uvicorn[standard]==0.29.0
+# python-dotenv==1.0.1
+# sqlalchemy==2.0.29
+# psycopg2-binary==2.9.9
